@@ -1140,7 +1140,12 @@ body .section {
 .TOP2codeWrap1, .TOP2codeWrap2, .TOP2codeWrap3, 
 .TOP3codeWrap1, .TOP3codeWrap2, .TOP3codeWrap3, 
 .TOP4codeWrap1, .TOP4codeWrap2, .TOP4codeWrap3, 
-.TOP5codeWrap1, .TOP5codeWrap2, .TOP5codeWrap3 {
+.TOP5codeWrap1, .TOP5codeWrap2, .TOP5codeWrap3,
+.TOP6codeWrap1, .TOP6codeWrap2, .TOP6codeWrap3,
+.TOP7codeWrap1, .TOP7codeWrap2, .TOP7codeWrap3,
+.TOP8codeWrap1, .TOP8codeWrap2, .TOP8codeWrap3,
+.TOP9codeWrap1, .TOP9codeWrap2, .TOP9codeWrap3,
+.TOP10codeWrap1, .TOP10codeWrap2, .TOP10codeWrap3 {
 	float: left;
 	padding: 1px;
 	font-size: 0.9rem;	
@@ -1151,7 +1156,12 @@ body .section {
 .TOP2copyCode1, .TOP2copyCode2, .TOP2copyCode3, 
 .TOP3copyCode1, .TOP3copyCode2, .TOP3copyCode3, 
 .TOP4copyCode1, .TOP4copyCode2, .TOP4copyCode3, 
-.TOP5copyCode1, .TOP5copyCode2, .TOP5copyCode3 {
+.TOP5copyCode1, .TOP5copyCode2, .TOP5copyCode3, 
+.TOP6copyCode1, .TOP6copyCode2, .TOP6copyCode3, 
+.TOP7copyCode1, .TOP7copyCode2, .TOP7copyCode3, 
+.TOP8copyCode1, .TOP8copyCode2, .TOP8copyCode3, 
+.TOP9copyCode1, .TOP9copyCode2, .TOP9copyCode3, 
+.TOP10copyCode1, .TOP10copyCode2, .TOP10copyCode3 {
     background: #f7081e;
     color: #ffffff;
 	font-weight: 600;
@@ -1166,7 +1176,12 @@ body .section {
 .TOP2copyCode1.copied, .TOP2copyCode2.copied, .TOP2copyCode3.copied, 
 .TOP3copyCode1.copied, .TOP3copyCode2.copied, .TOP3copyCode3.copied, 
 .TOP4copyCode1.copied, .TOP4copyCode2.copied, .TOP4copyCode3.copied, 
-.TOP5copyCode1.copied, .TOP5copyCode2.copied, .TOP5copyCode3.copied {
+.TOP5copyCode1.copied, .TOP5copyCode2.copied, .TOP5copyCode3.copied, 
+.TOP6copyCode1.copied, .TOP6copyCode2.copied, .TOP6copyCode3.copied, 
+.TOP7copyCode1.copied, .TOP7copyCode2.copied, .TOP7copyCode3.copied, 
+.TOP8copyCode1.copied, .TOP8copyCode2.copied, .TOP8copyCode3.copied, 
+.TOP9copyCode1.copied, .TOP9copyCode2.copied, .TOP9copyCode3.copied, 
+.TOP10copyCode1.copied, .TOP10copyCode2.copied, .TOP10copyCode3.copied {
     display: none;
 }
 
@@ -1174,7 +1189,12 @@ body .section {
 .copied .TOP2copyCode1, .copied  .TOP2copyCode2, .copied  .TOP2copyCode3, 
 .copied .TOP3copyCode1, .copied  .TOP3copyCode2, .copied  .TOP3copyCode3, 
 .copied .TOP4copyCode1, .copied  .TOP4copyCode2, .copied  .TOP4copyCode3, 
-.copied .TOP5copyCode1, .copied  .TOP5copyCode2, .copied  .TOP5copyCode3 {
+.copied .TOP5copyCode1, .copied  .TOP5copyCode2, .copied  .TOP5copyCode3, 
+.copied .TOP6copyCode1, .copied  .TOP6copyCode2, .copied  .TOP6copyCode3, 
+.copied .TOP7copyCode1, .copied  .TOP7copyCode2, .copied  .TOP7copyCode3, 
+.copied .TOP8copyCode1, .copied  .TOP8copyCode2, .copied  .TOP8copyCode3, 
+.copied .TOP9copyCode1, .copied  .TOP9copyCode2, .copied  .TOP9copyCode3, 
+.copied .TOP10copyCode1, .copied  .TOP10copyCode2, .copied  .TOP10copyCode3 {
     display: none;
 }
 
@@ -1182,7 +1202,12 @@ body .section {
 .copied .TOP2copyCode1.copied, .copied .TOP2copyCode2.copied, .copied .TOP2copyCode3.copied, 
 .copied .TOP3copyCode1.copied, .copied .TOP3copyCode2.copied, .copied .TOP3copyCode3.copied, 
 .copied .TOP4copyCode1.copied, .copied .TOP4copyCode2.copied, .copied .TOP4copyCode3.copied, 
-.copied .TOP5copyCode1.copied, .copied .TOP5copyCode2.copied, .copied .TOP5copyCode3.copied {
+.copied .TOP5copyCode1.copied, .copied .TOP5copyCode2.copied, .copied .TOP5copyCode3.copied, 
+.copied .TOP6copyCode1.copied, .copied .TOP6copyCode2.copied, .copied .TOP6copyCode3.copied, 
+.copied .TOP7copyCode1.copied, .copied .TOP7copyCode2.copied, .copied .TOP7copyCode3.copied, 
+.copied .TOP8copyCode1.copied, .copied .TOP8copyCode2.copied, .copied .TOP8copyCode3.copied, 
+.copied .TOP9copyCode1.copied, .copied .TOP9copyCode2.copied, .copied .TOP9copyCode3.copied, 
+.copied .TOP10copyCode1.copied, .copied .TOP10copyCode2.copied, .copied .TOP10copyCode3.copied {
     display: block;
 	float: left;
     color: #ffffff;
